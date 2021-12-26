@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5042441785:AAGdm0dBIGHZS4hZuQGVMhecHNzhU8sa4ak"
+    APP_ID = "7017548"
+    API_HASH = "180697ce69149039313535a8d77e7cf9"
+    DATABASE_URL = "postgres://azkzyxsnsaluzo:59851253f4ced14916c78aa8139697525ba9fbf8f04b0dcc7708a271fd4a85fb@ec2-54-164-56-10.compute-1.amazonaws.com:5432/dcfjdafm1d7foa"
+    SUDO_USERS = "1658647702"
+    SUPPORT_CHAT_LINK = "http://t.me/batassistlolbot"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
