@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5042441785:AAGdm0dBIGHZS4hZuQGVMhecHNzhU8sa4ak"
     APP_ID = "7017548"
     API_HASH = "180697ce69149039313535a8d77e7cf9"
-    DATABASE_URL = "postgres://azkzyxsnsaluzo:59851253f4ced14916c78aa8139697525ba9fbf8f04b0dcc7708a271fd4a85fb@ec2-54-164-56-10.compute-1.amazonaws.com:5432/dcfjdafm1d7foa"
+    DATABASE_URL = "postgres://bdybgbhzmltjnh:217ab38f7fe27aa5903f16170f266608cf91b8e77738dbb0c6df1b229d03eaba@ec2-44-196-180-179.compute-1.amazonaws.com:5432/d4vif94r4dkhnn"
     SUDO_USERS = "1658647702"
     SUPPORT_CHAT_LINK = "http://t.me/batassistlolbot"
     DOWNLOAD_DIRECTORY = "./downloads/"
